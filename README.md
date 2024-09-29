@@ -75,4 +75,4 @@ Feel free to modify the transformation logic to handle additional FIXML messages
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-© 2024 Astream B.V. """
+© 2024 Astream B.V.
